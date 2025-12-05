@@ -1,0 +1,36 @@
+
+
+{
+  "niveles": [
+    {
+      "nombre": "Dragon Ball G",
+     "simbolos_dados": [
+    "★ 1",
+    "★ 2",
+    "★ 3",
+    "★ 4",
+    "★ 5",
+    "★ 6"
+]
+,
+      "categorias": {
+        "unos": "Mr Satán",
+        "doses": "Piccoro",
+        "treses": "Gohan",
+        "cuatros": "Goku",
+        "cincos": "Vegeta",
+        "seises": "Gogeta",
+        "escalera": "¡Kamehame-ha!",
+        "full": "¡Resplandor Final!",
+        "poker": "¡¡Genki-dama!!",
+        "generala": "★ 7¡SAL DE AHÍ SHENLONG!"
+      },
+      "puntos_especiales": {
+        "escalera": 20,
+        "full": 30,
+        "poker": 40,
+        "generala": 50
+      }
+    }
+  ]
+}
