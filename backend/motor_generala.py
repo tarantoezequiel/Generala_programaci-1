@@ -4,7 +4,6 @@ import csv
 import json
 import os
 from collections import Counter
-from datetime import datetime
 
 # ---------- RUTAS DE ARCHIVOS ----------
 
